@@ -7,5 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Simone Sacchi <zsimo30@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zsimo/public-repo-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zsimo/public-repo-test/issues"
+  },
+  "homepage": "https://github.com/zsimo/public-repo-test#readme",
+  "dependencies": {
+    "unique-random-array": "^1.0.1"
+  }
 }
