@@ -1,0 +1,11 @@
+{
+  "name": "public-repo-test",
+  "version": "1.0.0",
+  "description": "public repo test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simone Sacchi <zsimo30@gmail.com>",
+  "license": "MIT"
+}
