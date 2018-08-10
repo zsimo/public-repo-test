@@ -2,7 +2,7 @@
   "name": "public-repo-test",
   "version": "1.0.0",
   "description": "public repo test",
-  "main": "index.js",
+  "main": "./dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,5 +18,8 @@
   "homepage": "https://github.com/zsimo/public-repo-test#readme",
   "dependencies": {
     "unique-random-array": "^1.0.1"
-  }
+  },
+  "files": [
+    "dist"
+  ]
 }
