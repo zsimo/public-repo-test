@@ -6,8 +6,11 @@
 var uniqueRandomArray = require('unique-random-array');
 
 
-module.exports = {
+var mainExports = {
     init: function () {
         console.log("ok");
     }
 };
+
+export default mainExports;
+module.exports = mainExports;
