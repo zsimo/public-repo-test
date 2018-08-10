@@ -12,5 +12,5 @@ var mainExports = {
     }
 };
 
-export default mainExports;
+//export default mainExports;
 module.exports = mainExports;
